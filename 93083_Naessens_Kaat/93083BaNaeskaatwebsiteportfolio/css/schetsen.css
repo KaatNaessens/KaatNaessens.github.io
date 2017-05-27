@@ -1,0 +1,161 @@
+h1{ font-family: Libby Heavy}
+.nav img{
+    position: fixed;
+    position:absolute;
+    left:780px;
+    top:20px
+}
+.nav{
+      position: fixed;
+    font-size:20px;
+   height:80px;
+   width:100%;
+    background: #000;
+    z-index: 999;
+}
+.nav img{
+    position: fixed;
+    position:absolute;
+    left:750px;
+    top:20px
+}
+.nav ul{
+    margin:0;
+    padding:0;
+}
+.nav ul li{
+    list-style:none;
+}
+.nav ul li a{
+    margin-left:235px;
+    margin-top:20px;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    display:block;
+    padding: 10px 30px;
+    color: white;
+}
+
+.nav ul li a:hover {
+    margin-top: 0px;
+      padding: 28px 30px;
+     background: #3f3e3e;
+    color:#fef9f5;
+    }
+
+#home{
+    height:30px;
+}
+.button--primary,
+.button--primary:active,
+.button--primary:visited {
+    padding:10px;
+    padding-right: 30px;
+    padding-left:30px;
+    text-decoration: none;
+    background-color: #fef1e7;
+    border: 2px dotted #fef1e7;
+    color: #000;
+}
+.button--primary:hover {
+    background: #000;
+    border: 2px dotted #fef1e7;
+    color: #fef1e7;}
+#home ul{
+    font-size:20px;
+    list-style:none;
+   position: absolute;
+   top: 300px;
+   left: 726px;
+}
+#schetsen
+{
+    border: 2px solid #000;
+    background-color: #fff; /* HEX GROEN */
+    /* clear: left, right, both */
+    clear: both;
+    position: relative;
+    top: 80px;
+    right: O;
+    width: 84,5%;
+    height: 95px;
+    margin: 0;
+    font-family: Libby Heavy;
+    font-size:70px;
+    line-height: 110px;
+    padding-left: 250px;
+}
+.grid__row{
+    position: absolute;
+    top:250px;
+    left:330px;
+}
+#footer{
+position: absolute;
+top:2800px;
+
+}
+
+#footertekst{
+    position:absolute;
+    top:2880px;
+    left:250px;
+    font-size: 21px;
+    line-height: 40px;
+    text-decoration: none;
+
+   }
+      #footertekst ul li{
+   list-style: none;
+  }
+     #footertekst ul li a{
+   text-decoration:none;
+   color:black;}
+
+   #footertekst2{
+    position:absolute;
+    top:2880px;
+    left:800px;
+    font-size: 21px;
+    line-height: 40px;
+   }
+     .schetsenp:hover{
+      text-decoration: underline;
+      color:black;
+  }
+   .layoutp:hover{
+      text-decoration: underline;
+      color:black;
+  }
+   .designp:hover{
+      text-decoration: underline;
+      color:black;
+  }
+   .webdesignp:hover{
+      text-decoration: underline;
+      color:black;
+  }
+   #socialmedia{
+       position: absolute;
+      top:3085px;
+       left:1300px;
+       
+   }
+   #socialmedia a{
+       text-decoration: none;
+       }
+   #fb{
+       width:40px;
+       
+   }
+     #insta{
+       width:40px;
+       
+   }
+  #twitter{
+       width:40px;
+       
+   }
+body{
+ background-color: #fef1e7;}
